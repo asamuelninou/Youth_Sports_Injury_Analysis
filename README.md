@@ -1,4 +1,4 @@
-# Youth Sport-Related Injury Analysis
+# Emergency Department Youth Sport-Related Injury Analysis
 ## Overview
 According to the Centers for Disease Control and Prevention (CDC), there were 131.3 million visits to the Emergency Department (E.D.) in 2020 and 38 million trips were injury related. The USA Department of Health and Human Services' *2021 Trends in the Utilization of Emergency Department Services between 2009-2018* report awares congress of the misuse of E.D. resources for "non-emergency" or "inappropriate" visits. Our plan is to highlight statistical findings to support a proposed injury management plan for patients, parents, and coaches. Our hope is to support hospitals and optimize healthcare resources.
 
