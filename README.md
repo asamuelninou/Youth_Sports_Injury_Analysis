@@ -1,7 +1,6 @@
 # Youth Sport-Related Injury Analysis
 ## Overview
-According to the Centers for Disease Control and Prevention (CDC), there were 131.3 million visits to the Emergency Department (E.D.) in 2020, and 38 million trips were injury related. The USA Department of Health and Human Services 2021 Trends in the Utilization of Emergency
-Department Services, 2009-2018 report to congress describe efforts to discourage the overuse of Emergency Departments. 
+According to the Centers for Disease Control and Prevention (CDC), there were 131.3 million visits to the Emergency Department (E.D.) in 2020, and 38 million trips were injury related. The USA Department of Health and Human Services' 2021 Trends in the Utilization of Emergency Department Services between 2009-2018 report to congress described efforts to discourage the overuse of Emergency Departments. 
 
 Our mission is to analyze Sport-Related Injury Analysis for youth. The World Health Organisation and the United Nations define 'youth' as those persons between the ages of 15 and 24 years. We aim to support hospitals by educating patients, parents, and coaches on the "non-emergency" or "inappropriate" use of E.D. resources. Our education plan wants to encourage patients, guardians, and coaches to be aware of injury statistics in sports in hopes of creating an injury management plan to utilize primary care services. In addition, we want to focus on superusers who use the E.D. more frequently.
 
