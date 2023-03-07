@@ -27,6 +27,7 @@ Quickly identify the highest or the lowest variable, including the incremental d
 - Which injury had the most hospital visits?
 - Which age had the most hospital visits?
 - Which disposition had the most hospital visits?
+- Which race had the most hospital visits?
 #### Line chart
 Show trends or progress over time and highlight accelerations and decelerations in data
 - What are the trends of total E.D. visits over the past ten years by sport?
@@ -34,6 +35,7 @@ Show trends or progress over time and highlight accelerations and decelerations 
 - What are the trends of total E.D. visits over the past ten years by injury?
 - What are the trends of total E.D. visits over the past ten years by disposition ?
 - What are the trends of total E.D. visits over the past ten years by gender?
+- What are the trends of total E.D. visits over the past ten years by race?
 #### Pie chart
 Represents data in percentages
 - What is the injury percentage by sport
@@ -41,6 +43,7 @@ Represents data in percentages
 - What was the disposition percentage by gender? 
 - What was the disposition percentage by location? 
 - What was the disposition percentage by body part? 
+- What was the disposition percentage by race? 
 
 ### R and Machine Learning
 #### R
