@@ -94,8 +94,8 @@ The Analytical Team's role is to narrow down the selected topic and determine th
 ##### Alicia Samuel-Ninou
 - Project Research 
 - README.md Report
-- Statistical Analysis
-- Machine Learning Model
+- Jupyter Notebook CSV Files Concat
+- README.md Analysis
 ##### Kailey O'Shaughnessy
 - Project Research
 - Initial Clean
@@ -105,9 +105,13 @@ The Analytical Team's role is to narrow down the selected topic and determine th
 The Data Wrangling and Visualization Team's role is to clean data further and determine and create visualizations for our analysis. By answering data-driven questions, we determine what variables were primitive to support or reject our hypothesis. The questions the team planned to respond to with the data will help determine how we will use our machine-learning model.  
 ##### Alejandro Miranda Miranda
 - Wrangle Data
+- Pie Chart Visualization
 ##### Edward Yi
+- Bar Chart Visualization
 ##### Zenat
 - Wrangle Data
+- Line Graph Visualization
+- 
  
 ## Data Exploration Phase
 The first step of our exploration phase is determining critical variables influencing our hypotheses and uncovering insights into sport-related injuries based on age, gender, disposition, and location. Next, we will identify areas or patterns for our machine-learning model with bar graphs, line graphs, and pie charts. Then, using interactive dashboards that filter data by sport, our audience can be able to understand our data-driven story.
