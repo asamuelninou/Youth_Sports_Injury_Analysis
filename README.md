@@ -120,3 +120,4 @@ Data Analysis systematically applies statistical and logical techniques to descr
 - 2/28: Research the research topic and determine the data and direction of the project
 - 2/29: Update group on the research topic and direction of the project
 - 3/1: Finalized Youth Injury Analysis
+- 3/6: Updates on Project, Designated Visualization Tasks, Master NEISS CSV
