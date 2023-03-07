@@ -50,9 +50,7 @@ Represents data in percentages
 - Statistical Significance of sport-related injury leading to death in E.D,
 
 #### Clustering
-Group injury into different categories based on the likelihood of death and hospitalization.
-#### Classification:
-Classify algorithms to determine the possibility of the sport getting a specific injury
+Supervised machine learning separteing people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
 
 ## Summary
 If a person could die or be permanently disabled, it is an emergency. For our study, the following are reasons to visit the E.D.:
