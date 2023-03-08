@@ -37,7 +37,7 @@ Show trends or progress over time and highlight accelerations and decelerations 
 - What are the trends of total E.D. visits over the past ten years by gender?
 - What are the trends of total E.D. visits over the past ten years by race?
 
-![plot](Line Graphs/Age.png)
+![plot](Line_Graphs/Age.png)
 
 #### Pie chart
 Represents data in percentages
