@@ -39,6 +39,17 @@ Show trends or progress over time and highlight accelerations and decelerations 
 
 ![plot](Line_Graphs/Age.png)
 
+![plot](Line_Graphs/Disposition.png)
+
+![plot](Line_Graphs/Gender.png)
+
+![plot](Line_Graphs/Injury.png)
+
+![plot](Line_Graphs/Race.png)
+
+![plot](Line_Graphs/Sport.png)
+
+
 #### Pie chart
 Represents data in percentages
 - What is the injury percentage by sport
