@@ -144,8 +144,9 @@ The first step of our exploration phase is determining critical variables influe
 Data Analysis systematically applies statistical and logical techniques to describe, illustrate, condense, recap, and evaluate data.
 
 ## Time Management Outline
-- 2/27: Determine the Research Topic and Sub-Groups
+- 2/27: Determine the research topic and sub-groups
 - 2/28: Research the research topic and determine the data and direction of the project
 - 2/29: Update group on the research topic and direction of the project
 - 3/1: Finalized Youth Injury Analysis
-- 3/6: Updates on Project, Designated Visualization Tasks, Master NEISS CSV
+- 3/6: Updates on project, designated visualization tasks, Master NEISS csv
+- 3/8: Edited, uploaded, discussed visualizations, discussed next meet up time
