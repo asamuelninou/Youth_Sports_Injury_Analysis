@@ -28,6 +28,16 @@ Quickly identify the highest or the lowest variable, including the incremental d
 - Which age had the most hospital visits?
 - Which disposition had the most hospital visits?
 - Which race had the most hospital visits?
+
+![plot](Bar_Graphs/Visits_By_Age.png)
+
+![plot](Bar_Graphs/Visits_By_Injury.png)
+
+![plot](Bar_Graphs/Visits_By_Age.png)
+
+![plot](Bar_Graphs/Visits_By_Race.png)
+
+
 #### Line chart
 Show trends or progress over time and highlight accelerations and decelerations in data
 - What are the trends of total E.D. visits over the past ten years by sport?
