@@ -23,11 +23,11 @@ NEISS is based on a nationally representative probability sample of U.S. hospita
 ### Visualizations
 #### Bar Charts
 Quickly identify the highest or the lowest variable, including the incremental differences between bars. 
-- Which sport had the most hospital visits?
-- Which injury had the most hospital visits?
-- Which age had the most hospital visits?
-- Which disposition had the most hospital visits?
-- Which race had the most hospital visits?
+- Which sport had the most hospital visits? Basketball
+- Which injury had the most hospital visits? Strain/Sprain
+- Which age had the most hospital visits? Minors from the age 15 had more hospital E.D. visits than the sum of E.D. visits of adults from the age of 18 to 24.
+- Which disposition had the most hospital visits? Treated and examined
+- Which race had the most hospital visits? The top two races from with the most E.D. visits from 2010 to 2019 were whites then blacks.
 
 ![plot](Bar_Graphs/Visits_By_Sport.png)
 
@@ -40,12 +40,12 @@ Quickly identify the highest or the lowest variable, including the incremental d
 
 #### Line chart
 Show trends or progress over time and highlight accelerations and decelerations in data
-- What are the trends of total E.D. visits over the past ten years by sport?
-- What are the trends of total E.D. visits over the past ten years by age?
-- What are the trends of total E.D. visits over the past ten years by injury?
-- What are the trends of total E.D. visits over the past ten years by disposition ?
-- What are the trends of total E.D. visits over the past ten years by gender?
-- What are the trends of total E.D. visits over the past ten years by race?
+- What are the trends of total E.D. visits over the past ten years by sport? Basketball had the highest number of E.D. visits. Track and field has the highest deceleration of E.D. visits from 2018-2019.
+- What are the trends of total E.D. visits over the past ten years by age? Ages 15, 16, and 17 have the highest rate of deceleration of E.D. visits the from 2018-2019.
+- What are the trends of total E.D. visits over the past ten years by injury? Most injuries where caused by and injury ankle followed by knee injuries. Both of the top two injuries E.D. visits are decelerating.
+- What are the trends of total E.D. visits over the past ten years by disposition? Overall there is a downward trend in patients being treated, examined, and released. Their seems to be a slight increase in the rate of hospitalzations.
+- What are the trends of total E.D. visits over the past ten years by gender? Men visit the E.D. more than women. Over the past 10 yeard there has been an overall decrease in E.D. visits.
+- What are the trends of total E.D. visits over the past ten years by race? The difference between whites and blacks E.D. visits is decreasing. 
 
 ![plot](Line_Graphs/Age.png)
 
