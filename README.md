@@ -29,7 +29,7 @@ Quickly identify the highest or the lowest variable, including the incremental d
 - Which disposition had the most hospital visits?
 - Which race had the most hospital visits?
 
-![plot](Bar_Graphs/Visits_By_Age.png)
+![plot](Bar_Graphs/Visits_By_Sport.png)
 
 ![plot](Bar_Graphs/Visits_By_Injury.png)
 
