@@ -35,7 +35,6 @@ Quickly identify the highest or the lowest variable, including the incremental d
 
 ![plot](Bar_Graphs/Visits_By_Age.png)
 
-![plot](Bar_Graphs/Visits_By_Race.png)
 
 
 #### Line chart
