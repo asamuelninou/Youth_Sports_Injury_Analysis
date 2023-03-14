@@ -9,10 +9,11 @@ Our target demographic is the youth who visited the E.D. for sport-related injur
 ![CDC ED Visits by Age 2020 edited](https://user-images.githubusercontent.com/92180070/223150165-c573d96f-f267-44e1-9c6b-a0eb0124df84.png)
 
 ### Technology, Languages, and Tools
-- Excel
-- Tableau
-- Python
-- R
+- Extract data from NEIISS Database
+- Transform data in Jupiter Notebook using Python
+- Demonstrate Entity Relationship Diagram (ERD) with Postgresql
+- Load and analyze visualizations in Tablaeu
+- Use Jupyter Notebook to create machine learning model that will cluster injuries based on age group
 
 #### National Electronic Injury Surveillance System (NEISS) Database
 For over 45 years, the CPSC has operated a statistically valid injury surveillance and follow-back system known as the National Electronic Injury Surveillance System (NEISS). The primary purpose of NEISS is to collect data on consumer product-related injuries occurring in the United States. CPSC uses these data to produce nationwide estimates of product-related injuries.
