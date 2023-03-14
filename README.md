@@ -178,3 +178,5 @@ Data Analysis systematically applies statistical and logical techniques to descr
 - 3/1: Finalized Youth Injury Analysis
 - 3/6: Updates on project, designated visualization tasks, Master NEISS csv
 - 3/8: Edited, uploaded, discussed visualizations, discussed next meet up time
+- 3/13: Edited graphs, 
+- 3/15: Finalize our story and pick top graphs to represent our story
