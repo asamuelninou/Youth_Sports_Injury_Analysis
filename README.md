@@ -54,11 +54,16 @@ Show trends or progress over time and highlight accelerations and decelerations 
 Represents data in percentages
 - What is the injury percentage by sport
 
+![Screenshot (185)](https://user-images.githubusercontent.com/114957364/225469616-49f8aaf9-3b8c-4274-ab51-9165d16a986f.png)
+
 ![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
 ![Screenshot (178)](https://user-images.githubusercontent.com/114957364/223908647-7649283e-4123-4fc6-af35-8a16ecc8fd99.png)
 ![Screenshot (179)](https://user-images.githubusercontent.com/114957364/223908655-a522ac21-e59f-45c5-874f-eb33c15410fe.png)
 
 - What was the disposition percentage by sport.
+
+![Screenshot (184)](https://user-images.githubusercontent.com/114957364/225469667-c97d363b-c939-43a6-ae93-b51631019540.png)
+
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
 ![Screenshot (175)](https://user-images.githubusercontent.com/114957364/223908545-1e7a0b6c-a602-48a6-82ad-6b7b0ff26a11.png)
@@ -66,23 +71,31 @@ Represents data in percentages
 
 - What was the disposition percentage by gender? 
 
+![Screenshot (183)](https://user-images.githubusercontent.com/114957364/225469729-f6abd2e3-95b9-494e-a3a0-ebd6c3ffeb45.png)
+
 ![Screenshot (171)](https://user-images.githubusercontent.com/114957364/223908457-42bb18e5-4bea-41bc-bc71-eab58c80c3a5.png)
 ![Screenshot (172)](https://user-images.githubusercontent.com/114957364/223908468-a2a1ddf5-96f1-4825-8dae-9d5e487b53fc.png)
 ![Screenshot (173)](https://user-images.githubusercontent.com/114957364/223908478-f3a2e237-b854-4f23-aad7-69dd7674b0b3.png)
 
 - What was the disposition percentage by location? 
  
+ ![Screenshot (182)](https://user-images.githubusercontent.com/114957364/225469758-2dfad045-1319-4f15-8497-82e567cc484f.png)
+
 ![Screenshot (168)](https://user-images.githubusercontent.com/114957364/223908358-4f29ad4f-6b1c-42c9-a146-93231c586d15.png)
 ![Screenshot (169)](https://user-images.githubusercontent.com/114957364/223908365-20e36fe6-eacc-4341-9706-eb410691b414.png)
 ![Screenshot (170)](https://user-images.githubusercontent.com/114957364/223908378-220fd33f-53eb-4c35-b0bb-ad1f4ce76193.png)
 
 - What was the disposition percentage by body part? 
 
+![Screenshot (181)](https://user-images.githubusercontent.com/114957364/225469779-2b80071f-c160-45e6-a8eb-3d7a51b5ccc9.png)
+
 ![Screenshot (162)](https://user-images.githubusercontent.com/114957364/223908204-1e1a02e5-8f96-451f-8b7e-3dfabb376962.png)
 ![Screenshot (163)](https://user-images.githubusercontent.com/114957364/223908212-7cf8205f-64ac-40ae-9350-a4a803119f7b.png)
 ![Screenshot (164)](https://user-images.githubusercontent.com/114957364/223908245-ba90dfa2-af8d-4eed-b4ba-02c0a2c79895.png)
 
 - What was the disposition percentage by race? 
+
+![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225469809-dc339cd6-231c-4a57-9fb6-3bbd57889f64.png)
 
 ![Screenshot (165)](https://user-images.githubusercontent.com/114957364/223908271-b5284f55-f137-4411-9298-1a7ec9dd7575.png)
 ![Screenshot (166)](https://user-images.githubusercontent.com/114957364/223908289-35c4ff08-7c35-4501-b8bd-2dd2d4c0b4d1.png)
