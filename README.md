@@ -84,7 +84,22 @@ Represents data in percentages
 
 
 #### Clustering
-Supervised machine learning separteing people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
+Supervised machine learning separating people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
+
+The first step in this process was creating a risk variable that separated people into high risk and low risk groups. This variable was named "high risk" and was true if the injuries were on the person's face, eyes, neck, or head. Otherwise, the variable would be labeled "false" (meaning the person was low-risk.) From there the data was cleaned, where X dropped the "high risk" column and y was equal to the "high risk" column. Value counts for y were found and the number of low-risk (false) far outweighed the high-risk (true) class. Due to this, the team decided to undersample for the machine learning model, randomly selecting a number of low-risk individuals to match the number of high-risk. From there the BalancedRandomForest was used to classify with n-estimators set to 50. The confusion matrix can be seen below: 
+
+![confusion matrix](https://github.com/asamuelninou/Youth_Sports_Injury_Analysis/blob/d53f4c92a62da93301f034f9c4576441fa40cabb/Machine%20Learning/confusion_matrix.png)
+
+As the confusion matrix shows, our model did extremely well in predicting low versus high risk individuals. A balance report was also found and can be seen below.
+
+![balance report](https://github.com/asamuelninou/Youth_Sports_Injury_Analysis/blob/d53f4c92a62da93301f034f9c4576441fa40cabb/Machine%20Learning/balance_report.png)
+
+As the balance report shows, the Balanced Random Forest was exttremely accurate and precise when it came to sorting our high-risk versus our low-risk groups. After finding this report, we sorted the features by importance. 
+
+![features list](https://github.com/asamuelninou/Youth_Sports_Injury_Analysis/blob/d53f4c92a62da93301f034f9c4576441fa40cabb/Machine%20Learning/features_importance.png)
+
+The most important feature in this model was age, which accounted for roughly 62% of if a person was put into a low or high risk category. Following that, sex accounted for approximately 27% of the likelihood someone was sorted into a low or high risk category. 
+
 
 ## Summary
 If a person could die or be permanently disabled, it is an emergency. For our study, the following are reasons to visit the E.D.:
