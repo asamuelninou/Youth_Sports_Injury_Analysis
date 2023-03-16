@@ -64,8 +64,6 @@ Represents data in percentages
 ![Screenshot (184)](https://user-images.githubusercontent.com/114957364/225470376-992c2a3c-2627-46fa-8542-ecd66b286b32.png)
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
-![Screenshot (175)](https://user-images.githubusercontent.com/114957364/223908545-1e7a0b6c-a602-48a6-82ad-6b7b0ff26a11.png)
-![Screenshot (176)](https://user-images.githubusercontent.com/114957364/223908554-835a964f-1166-48e9-96d8-c991b6c6f7db.png)
 
 - What was the disposition percentage by gender? 
 - 
@@ -81,10 +79,6 @@ Represents data in percentages
 - What was the disposition percentage by body part? 
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
-
-![Screenshot (162)](https://user-images.githubusercontent.com/114957364/223908204-1e1a02e5-8f96-451f-8b7e-3dfabb376962.png)
-![Screenshot (163)](https://user-images.githubusercontent.com/114957364/223908212-7cf8205f-64ac-40ae-9350-a4a803119f7b.png)
-![Screenshot (164)](https://user-images.githubusercontent.com/114957364/223908245-ba90dfa2-af8d-4eed-b4ba-02c0a2c79895.png)
 
 - What was the disposition percentage by race? 
  
