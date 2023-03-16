@@ -56,8 +56,6 @@ Represents data in percentages
 
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
-![Screenshot (178)](https://user-images.githubusercontent.com/114957364/223908647-7649283e-4123-4fc6-af35-8a16ecc8fd99.png)
-![Screenshot (179)](https://user-images.githubusercontent.com/114957364/223908655-a522ac21-e59f-45c5-874f-eb33c15410fe.png)
 
 - What was the disposition percentage by sport.
 
