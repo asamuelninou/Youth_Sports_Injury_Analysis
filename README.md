@@ -73,8 +73,6 @@ Represents data in percentages
 
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/114957364/223908457-42bb18e5-4bea-41bc-bc71-eab58c80c3a5.png)
-![Screenshot (172)](https://user-images.githubusercontent.com/114957364/223908468-a2a1ddf5-96f1-4825-8dae-9d5e487b53fc.png)
-![Screenshot (173)](https://user-images.githubusercontent.com/114957364/223908478-f3a2e237-b854-4f23-aad7-69dd7674b0b3.png)
 
 - What was the disposition percentage by location? 
  
