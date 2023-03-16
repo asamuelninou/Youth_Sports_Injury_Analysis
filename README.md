@@ -34,10 +34,6 @@ Quickly identify the highest or the lowest variable, including the incremental d
 
 ![plot](Bar_Graphs/Visits_By_Injury.png)
 
-![plot](Bar_Graphs/Visits_By_Age.png)
-
-![plot](Bar_Graphs/Visits_By_Race.png)
-
 #### Line chart
 Show trends or progress over time and highlight accelerations and decelerations in data
 - What are the trends of total E.D. visits over the past ten years by sport? Basketball had the highest number of E.D. visits. Track and field has the highest deceleration of E.D. visits from 2018-2019.
