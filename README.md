@@ -80,10 +80,6 @@ Represents data in percentages
  
  ![Screenshot (182)](https://user-images.githubusercontent.com/114957364/225470696-e6d3391f-cee0-4373-ad7c-aae56a0eca4a.png)
 
-![Screenshot (168)](https://user-images.githubusercontent.com/114957364/223908358-4f29ad4f-6b1c-42c9-a146-93231c586d15.png)
-![Screenshot (169)](https://user-images.githubusercontent.com/114957364/223908365-20e36fe6-eacc-4341-9706-eb410691b414.png)
-![Screenshot (170)](https://user-images.githubusercontent.com/114957364/223908378-220fd33f-53eb-4c35-b0bb-ad1f4ce76193.png)
-
 - What was the disposition percentage by body part? 
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
