@@ -82,12 +82,6 @@ Represents data in percentages
  
 ![Screenshot (181)](https://user-images.githubusercontent.com/114957364/225470955-ada1a4b4-36c4-4085-a1d3-64575cfcc1da.png)
 
-### R and Machine Learning
-#### R
-- Statistical Significance of sport-related injury leading to no injury, being left without being seen
-- Statistical Significance of sport-related injury being treated/ examined and released
-- Statistical Significance of sport-related injury leading to being treated and admitted to hospitalized
-- Statistical Significance of sport-related injury leading to death in E.D,
 
 #### Clustering
 Supervised machine learning separteing people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
@@ -145,6 +139,8 @@ The Data Wrangling and Visualization Team's role is to clean data further and de
 - Pie Chart Visualization
 ##### Edward Yi
 - Bar Chart Visualization
+- README Updates
+- Visualiztion clean up
 ##### Zenat
 - Wrangle Data
 - Line Graph Visualization
