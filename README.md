@@ -64,7 +64,7 @@ Represents data in percentages
 ![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
 
 - What was the disposition percentage by gender? 
-- 
+
 ![Screenshot (183)](https://user-images.githubusercontent.com/114957364/225470574-faa639ce-a5a2-4ba7-b4bf-37ff46755083.png)
 
 
