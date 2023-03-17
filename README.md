@@ -1,4 +1,4 @@
-![plot](Line_Graphs/j.png)
+![plot](Line_Graphs/j.jpg)
 
 # Emergency Department Youth Sport-Related Injury Analysis
 ## Overview
