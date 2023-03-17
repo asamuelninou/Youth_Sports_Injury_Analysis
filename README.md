@@ -152,6 +152,7 @@ The Data Wrangling and Visualization Team's role is to clean data further and de
 ##### Alejandro Miranda Miranda
 - Wrangle Data
 - Pie Chart Visualization
+- Summary
 ##### Edward Yi
 - Bar Chart Visualization
 - README Updates
