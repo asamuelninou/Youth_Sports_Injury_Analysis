@@ -1,4 +1,4 @@
-![plot](Line_Graphs/Medical_Banner.png)
+![plot](Line_Graphs/Medical_Banner.jpg)
 
 # Emergency Department Youth Sport-Related Injury Analysis
 ## Overview
