@@ -6,14 +6,14 @@ According to the Centers for Disease Control and Prevention (CDC), 131.3 million
 
 Our target demographic is the youth who visited the E.D. for sport-related injuries over ten years. The World Health Organization and the United Nations define 'youth' as those persons between the ages of 15 and 24. The definition of youth may change with circumstances: demographic, financial, economic, and socio-cultural settings. However, the definition that uses the 15-24 age cohort as youth appropriately describes people who benefit from guidance as they transition from the dependence of childhood to adulthood independence. Our objective is to focus on the most popular sports played by males and females according to the National Federation of State High School Associations: track and field, basketball, and soccer. We are analyzing E.D. visits due to concussions, sprains, fractures, and dislocations at schools, daycares, or recreation sports fields. By studying specific sports and injuries, we hope to find significant statistical findings to guide an injury management plan. We are querying data over ten years from 2009 to 2019 from the National Electronic Injury Surveillance System (NEIISS) Database. 
 
-**Our hypothesis is that most E.D. visits are minors under 18 who had the highest percentage of "non-emergency" or "inappropriate" visits and did not require hospitalization or were not transferred to a different department.** This target audience would benefit from an injury management plan that utilizes other healthcare resources. 
+**Our hypothesis is that most E.D. visits are the youth under 18, has the highest percentage of "non-emergency" or "inappropriate" visits.** This target audience would benefit from an injury management plan that utilizes other healthcare resources. 
 
 ![CDC ED Visits by Age 2020 edited](https://user-images.githubusercontent.com/92180070/223150165-c573d96f-f267-44e1-9c6b-a0eb0124df84.png)
 
 ### Technology, Languages, and Tools
 - Extract data from NEIISS Database
 - Transform data in Jupiter Notebook using Python
-- Demonstrate Entity Relationship Diagram (ERD) with Postgresql
+- Demonstrate Entity Relationship Diagram (ERD) with PostgreSQL
 - Load and analyze visualizations in Tablaeu
 - Use Jupyter Notebook to create machine learning model that will cluster injuries based on age group
 
@@ -21,71 +21,29 @@ Our target demographic is the youth who visited the E.D. for sport-related injur
 For over 45 years, the CPSC has operated a statistically valid injury surveillance and follow-back system known as the National Electronic Injury Surveillance System (NEISS). The primary purpose of NEISS is to collect data on consumer product-related injuries occurring in the United States. CPSC uses these data to produce nationwide estimates of product-related injuries.
 ##### Description of Data
 NEISS is based on a nationally representative probability sample of U.S. hospitals and territories. Each participating NEISS hospital reports patient information for every emergency department visit associated with a consumer product or a poisoning. They have become an important public health research tool for CPSC, researchers, and consumers throughout the United States and worldwide. In 2000, CPSC expanded NEISS to collect data on all injuries for the Centers for Disease Control and Prevention through an interagency agreement. The next major update to NEISS occurred in 2018 with seven new variables: Diagnosis_2, Other_Diagnosis_2, Body_Part_2, Product_3, Ethnicity, Alcohol_Involved, and Drug_Involved. In addition to the new variables, the maximum length of the Narrative text was increased from 142 to 400 characters. These changes were effective, starting with the treatment date of January 1, 2019.
-###### ***Types of Data***
+
 ## Analysis
-### Visualizations
-#### Bar Charts
-Quickly identify the highest or the lowest variable, including the incremental differences between bars. 
-- Which sport had the most hospital visits? Basketball
-- Which injury had the most hospital visits? Strain/Sprain
-- Which age had the most hospital visits? Minors from the age 15 had more hospital E.D. visits than the sum of E.D. visits of adults from the age of 18 to 24.
-- Which disposition had the most hospital visits? Treated and examined
-- Which race had the most hospital visits? The top two races from with the most E.D. visits from 2010 to 2019 were whites then blacks.
 
-![plot](Bar_Graphs/Visits_By_Sport.png)
+![image](https://user-images.githubusercontent.com/92180070/226080625-3c0343ce-8f02-4707-afec-fc803882594c.png)
 
-![plot](Bar_Graphs/Visits_By_Injury.png)
+Over the past ten years, there has been a decrease in the amount of youth E.D. visits. As suspected minors from 15 to 17 years of age visited the E.D. more than adults age 18 to 24 combined. 
 
-#### Line chart
-Show trends or progress over time and highlight accelerations and decelerations in data
-- What are the trends of total E.D. visits over the past ten years by sport? Basketball had the highest number of E.D. visits. Track and field has the highest deceleration of E.D. visits from 2018-2019.
-- What are the trends of total E.D. visits over the past ten years by age? Ages 15, 16, and 17 have the highest rate of deceleration of E.D. visits the from 2018-2019.
-- What are the trends of total E.D. visits over the past ten years by injury? Most injuries where caused by and injury ankle followed by knee injuries. Both of the top two injuries E.D. visits are decelerating.
-- What are the trends of total E.D. visits over the past ten years by disposition? Overall there is a downward trend in patients being treated, examined, and released. Their seems to be a slight increase in the rate of hospitalzations.
-- What are the trends of total E.D. visits over the past ten years by gender? Men visit the E.D. more than women. Over the past 10 yeard there has been an overall decrease in E.D. visits.
-- What are the trends of total E.D. visits over the past ten years by race? The difference between whites and blacks E.D. visits is decreasing. 
+![E D  Visits by Gender](https://user-images.githubusercontent.com/92180070/226109789-a27c4939-4914-4e07-91a3-580911ed13b7.png)
 
-![plot](Line_Graphs/Age.png)
+There are more males going to the E.D. than women. 
 
-![plot](Line_Graphs/Injury.png)
+![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
 
+The primary reason our targeted audience went to the E.D. where because of a strain/sprain. 
 
-### Pie chart
-Represents data in percentages
-- What is the injury percentage by sport
+Majority of clients where treated/examined and released.
 
-![Screenshot (185)](https://user-images.githubusercontent.com/114957364/225470235-ab5807fb-b5b4-4d3c-abff-fe6cb394708a.png)
+![Percentage of E D  Visits by Disposition](https://user-images.githubusercontent.com/92180070/226111847-716ac72c-0a9f-46b9-b59c-98656f2c3468.png)
+The top 2 locations of injury are the ankles and knees. 
 
-
-![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
-
-- What was the disposition percentage by sport.
-
-![Screenshot (184)](https://user-images.githubusercontent.com/114957364/225470376-992c2a3c-2627-46fa-8542-ecd66b286b32.png)
-
-![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
-
-- What was the disposition percentage by gender? 
-
-![Screenshot (183)](https://user-images.githubusercontent.com/114957364/225470574-faa639ce-a5a2-4ba7-b4bf-37ff46755083.png)
-
-
-![Screenshot (171)](https://user-images.githubusercontent.com/114957364/223908457-42bb18e5-4bea-41bc-bc71-eab58c80c3a5.png)
-
-- What was the disposition percentage by location? 
+![image](https://user-images.githubusercontent.com/92180070/226080643-7dba5a11-f253-4c7d-a51d-6947736d8f82.png)
  
- ![Screenshot (182)](https://user-images.githubusercontent.com/114957364/225470696-e6d3391f-cee0-4373-ad7c-aae56a0eca4a.png)
-
-- What was the disposition percentage by body part? 
-
-![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
-
-- What was the disposition percentage by race? 
- 
-![Screenshot (181)](https://user-images.githubusercontent.com/114957364/225470955-ada1a4b4-36c4-4085-a1d3-64575cfcc1da.png)
-
-
-#### Clustering
+### Machine Learning Clusters
 Supervised machine learning separating people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
 
 The first step in this process was creating a risk variable that separated people into high risk and low risk groups. This variable was named "high risk" and was true if the injuries were on the person's face, eyes, neck, or head. Otherwise, the variable would be labeled "false" (meaning the person was low-risk.) From there the data was cleaned, where X dropped the "high risk" column and y was equal to the "high risk" column. Value counts for y were found and the number of low-risk (false) far outweighed the high-risk (true) class. Due to this, the team decided to undersample for the machine learning model, randomly selecting a number of low-risk individuals to match the number of high-risk. From there the BalancedRandomForest was used to classify with n-estimators set to 50. The confusion matrix can be seen below: 
@@ -125,15 +83,15 @@ If a person could die or be permanently disabled, it is an emergency. For our st
 - High fever that does not get better with medicine
 - Throwing up or loose stools that do not stop
 ### Injury Management Plan
-
+In regards to the development of an injury management plan, further research must be done to determine what resources or protocals need to be in place to redirect "non-emergency" injuries. This plan will need the cooperation of public healthcare officials, healthcare professionals, coaches, parents, and patients. 
 #### Strength
+The strength of this research proposal was organized data from the (NEIISS) Database
 #### Limitations
-We are not medical professionals that can determine which injuries are deemed "inappropriate" or "non-emergency."
+We are not medical professionals that can determine which injuries are deemed "inappropriate" or "non-emergency." More data will need to be gathered on what medical professionals conclude as "inappropriate" uses of the E.D. 
 #### Future Finding
-1) Does weight/BMI play a role in disposition
-2) Who brought the patient into the hospital
-3) Medical Education of patient and parent
-4) Wait time of patients at the hospital
+##### Who brought the patient into the hospital
+##### Medical Education of patient and transportation personal
+##### Medical Professionals Feedback
 
 # Project Management
 Our team has two departments: Analytical and Data Wrangling and Visualization Team.
@@ -144,6 +102,8 @@ The Analytical Team's role is to narrow down the selected topic and determine th
 - README.md Report
 - Jupyter Notebook CSV Files Concat
 - README.md Analysis
+- PostgreSQL Database
+- Introduction Powerpoint
 ##### Kailey O'Shaughnessy
 - Project Research
 - Initial Clean
@@ -180,3 +140,6 @@ Data Analysis systematically applies statistical and logical techniques to descr
 - 3/8: Edited, uploaded, discussed visualizations, discussed next meet up time
 - 3/13: Edited graphs, 
 - 3/15: Finalize our story and pick top graphs to represent our story
+
+## Resources
+- Presentation PPT: https://docs.google.com/presentation/d/1PNGkagYsRhEGqGaS-2org3AKvUiXmIBFPbWmnMIhYvY/edit?usp=sharing
