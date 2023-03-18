@@ -11,7 +11,7 @@ Our target demographic is the youth who visited the E.D. for sport-related injur
 ![CDC ED Visits by Age 2020 edited](https://user-images.githubusercontent.com/92180070/223150165-c573d96f-f267-44e1-9c6b-a0eb0124df84.png)
 
 ### Technology, Languages, and Tools
-- Extract data from NEIISS Database
+- Extract data from NEISS Database
 - Transform data in Jupiter Notebook using Python
 - Demonstrate Entity Relationship Diagram (ERD) with PostgreSQL
 - Load and analyze visualizations in Tablaeu
