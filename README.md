@@ -26,7 +26,22 @@ NEISS is based on a nationally representative probability sample of U.S. hospita
 
 
 ![image](https://user-images.githubusercontent.com/92180070/226080625-3c0343ce-8f02-4707-afec-fc803882594c.png)
+
+Over the past ten years, there has been a decrease in the amount of youth E.D. visits. As suspected minors from 15 to 17 years old visited the E.D. more than adults age 18 to 24 combined. There were more males going to the E.D. than women. 
+
+![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
+
+The primary reason our targeted audience went to the E.D. where because of a strain/ or sprain. 
+
+Majority of clients where treated/examined and released.
+
+![image](https://user-images.githubusercontent.com/92180070/226081187-ca68139a-0096-4e7e-a5f2-39448a86f3b7.png)
+
+The top 2 locations of injury are the ankles and knees. 
+
 ![image](https://user-images.githubusercontent.com/92180070/226080643-7dba5a11-f253-4c7d-a51d-6947736d8f82.png)
+
+
 ![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
 
 
