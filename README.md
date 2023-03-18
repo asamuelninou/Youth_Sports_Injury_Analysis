@@ -32,7 +32,7 @@ There are more males going to the E.D. than women.
 
 ![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
 
-The primary reason our targeted audience went to the E.D. were due to strain/sprain. 
+The primary reason our targeted audience went to the E.D. were due to a strain/sprain. 
 
 Majority of clients were treated/examined and released.
 
