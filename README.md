@@ -32,9 +32,9 @@ There are more males going to the E.D. than women.
 
 ![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
 
-The primary reason our targeted audience went to the E.D. where because of a strain/sprain. 
+The primary reason our targeted audience went to the E.D. were due to strain/sprain. 
 
-Majority of clients where treated/examined and released.
+Majority of clients were treated/examined and released.
 
 ![Percentage of E D  Visits by Disposition](https://user-images.githubusercontent.com/92180070/226111847-716ac72c-0a9f-46b9-b59c-98656f2c3468.png)
 The top 2 locations of injury are the ankles and knees. 
@@ -44,7 +44,7 @@ The top 2 locations of injury are the ankles and knees.
 ### Machine Learning Clusters
 Supervised machine learning separating people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
 
-The first step in this process was creating a risk variable that separated people into high risk and low risk groups. This variable was named "high risk" and was true if the injuries were on the person's face, eyes, neck, or head. Otherwise, the variable would be labeled "false" (meaning the person was low-risk.) From there the data was cleaned, where X dropped the "high risk" column and y was equal to the "high risk" column. Value counts for y were found and the number of low-risk (false) far outweighed the high-risk (true) class. Due to this, the team decided to undersample for the machine learning model, randomly selecting a number of low-risk individuals to match the number of high-risk. From there the BalancedRandomForest was used to classify with n-estimators set to 50. The confusion matrix can be seen below: 
+The first step in this process was creating a risk variable that separated people into high risk and low risk groups. This variable was named "high risk" and was true if the injuries were on the person's face, eyes, neck, or head. Otherwise, the variable would be labeled "false" (meaning the person was low-risk.) From there the data was cleaned, were X dropped the "high risk" column and y was equal to the "high risk" column. Value counts for y were found and the number of low-risk (false) far outweighed the high-risk (true) class. Due to this, the team decided to undersample for the machine learning model, randomly selecting a number of low-risk individuals to match the number of high-risk. From there the BalancedRandomForest was used to classify with n-estimators set to 50. The confusion matrix can be seen below: 
 
 ![confusion matrix](https://github.com/asamuelninou/Youth_Sports_Injury_Analysis/blob/d53f4c92a62da93301f034f9c4576441fa40cabb/Machine%20Learning/confusion_matrix.png)
 
