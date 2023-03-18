@@ -143,3 +143,4 @@ Data Analysis systematically applies statistical and logical techniques to descr
 
 ## Resources
 - Presentation PPT: https://docs.google.com/presentation/d/1PNGkagYsRhEGqGaS-2org3AKvUiXmIBFPbWmnMIhYvY/edit?usp=sharing
+- Initial Analysis Questionnaire PDF: [Initial Visualization Questionnaire.pdf](https://github.com/asamuelninou/Youth_Sports_Injury_Analysis/files/11008831/Initial.Visualization.Questionnaire.pdf)
