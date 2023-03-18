@@ -6,7 +6,7 @@ According to the Centers for Disease Control and Prevention (CDC), 131.3 million
 
 Our target demographic is the youth who visited the E.D. for sport-related injuries over ten years. The World Health Organization and the United Nations define 'youth' as those persons between the ages of 15 and 24. The definition of youth may change with circumstances: demographic, financial, economic, and socio-cultural settings. However, the definition that uses the 15-24 age cohort as youth appropriately describes people who benefit from guidance as they transition from the dependence of childhood to adulthood independence. Our objective is to focus on the most popular sports played by males and females according to the National Federation of State High School Associations: track and field, basketball, and soccer. We are analyzing E.D. visits due to concussions, sprains, fractures, and dislocations at schools, daycares, or recreation sports fields. By studying specific sports and injuries, we hope to find significant statistical findings to guide an injury management plan. We are querying data over ten years from 2009 to 2019 from the National Electronic Injury Surveillance System (NEIISS) Database. 
 
-**Our hypothesis is that most E.D. visits are minors under 18 who had the highest percentage of "non-emergency" or "inappropriate" visits and did not require hospitalization or were not transferred to a different department.** This target audience would benefit from an injury management plan that utilizes other healthcare resources. 
+**Our hypothesis is that most E.D. visits are the youth under 18, has the highest percentage of "non-emergency" or "inappropriate" visits.** This target audience would benefit from an injury management plan that utilizes other healthcare resources. 
 
 ![CDC ED Visits by Age 2020 edited](https://user-images.githubusercontent.com/92180070/223150165-c573d96f-f267-44e1-9c6b-a0eb0124df84.png)
 
@@ -26,23 +26,23 @@ NEISS is based on a nationally representative probability sample of U.S. hospita
 
 ![image](https://user-images.githubusercontent.com/92180070/226080625-3c0343ce-8f02-4707-afec-fc803882594c.png)
 
-Over the past ten years, there has been a decrease in the amount of youth E.D. visits. As suspected minors from 15 to 17 years old visited the E.D. more than adults age 18 to 24 combined. There were more males going to the E.D. than women. 
+Over the past ten years, there has been a decrease in the amount of youth E.D. visits. As suspected minors from 15 to 17 years of age visited the E.D. more than adults age 18 to 24 combined. 
+
+![E D  Visits by Gender](https://user-images.githubusercontent.com/92180070/226109789-a27c4939-4914-4e07-91a3-580911ed13b7.png)
+
+There are more males going to the E.D. than women. 
 
 ![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
 
-The primary reason our targeted audience went to the E.D. where because of a strain/ or sprain. 
+The primary reason our targeted audience went to the E.D. where because of a strain/sprain. 
 
 Majority of clients where treated/examined and released.
-![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
-![image](https://user-images.githubusercontent.com/92180070/226081187-ca68139a-0096-4e7e-a5f2-39448a86f3b7.png)
 
+![Percentage of E D  Visits by Disposition](https://user-images.githubusercontent.com/92180070/226111847-716ac72c-0a9f-46b9-b59c-98656f2c3468.png)
 The top 2 locations of injury are the ankles and knees. 
 
 ![image](https://user-images.githubusercontent.com/92180070/226080643-7dba5a11-f253-4c7d-a51d-6947736d8f82.png)
  
-![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
-
-
 ### Machine Learning Clusters
 Supervised machine learning separating people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
 
@@ -83,14 +83,15 @@ If a person could die or be permanently disabled, it is an emergency. For our st
 - High fever that does not get better with medicine
 - Throwing up or loose stools that do not stop
 ### Injury Management Plan
-
+In regards to the development of an injury management plan, further research must be done to determine what resources or protocals need to be in place to redirect "non-emergency" injuries. This plan will need the cooperation of public healthcare officials, healthcare professionals, coaches, parents, and patients. 
 #### Strength
+The strength of this research proposal was organized data from the (NEIISS) Database
 #### Limitations
-We are not medical professionals that can determine which injuries are deemed "inappropriate" or "non-emergency."
+We are not medical professionals that can determine which injuries are deemed "inappropriate" or "non-emergency." More data will need to be gathered on what medical professionals conclude as "inappropriate" uses of the E.D. 
 #### Future Finding
-1) Who brought the patient into the hospital
-2) Medical Education of patient and transportation personal
-3) Medical Professionals Feedback
+##### Who brought the patient into the hospital
+##### Medical Education of patient and transportation personal
+##### Medical Professionals Feedback
 
 # Project Management
 Our team has two departments: Analytical and Data Wrangling and Visualization Team.
