@@ -24,13 +24,11 @@ NEISS is based on a nationally representative probability sample of U.S. hospita
 ###### ***Types of Data***
 ## Analysis
 
-![plot](Line_Graphs/Age.png)
 
-![plot](Line_Graphs/Injury.png)
+![image](https://user-images.githubusercontent.com/92180070/226080625-3c0343ce-8f02-4707-afec-fc803882594c.png)
+![image](https://user-images.githubusercontent.com/92180070/226080643-7dba5a11-f253-4c7d-a51d-6947736d8f82.png)
+![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
 
-![plot](Bar_Graphs/Visits_By_Sport.png)
-
-![plot](Bar_Graphs/Visits_By_Injury.png)
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
 
