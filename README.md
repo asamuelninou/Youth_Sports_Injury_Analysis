@@ -23,57 +23,21 @@ For over 45 years, the CPSC has operated a statistically valid injury surveillan
 NEISS is based on a nationally representative probability sample of U.S. hospitals and territories. Each participating NEISS hospital reports patient information for every emergency department visit associated with a consumer product or a poisoning. They have become an important public health research tool for CPSC, researchers, and consumers throughout the United States and worldwide. In 2000, CPSC expanded NEISS to collect data on all injuries for the Centers for Disease Control and Prevention through an interagency agreement. The next major update to NEISS occurred in 2018 with seven new variables: Diagnosis_2, Other_Diagnosis_2, Body_Part_2, Product_3, Ethnicity, Alcohol_Involved, and Drug_Involved. In addition to the new variables, the maximum length of the Narrative text was increased from 142 to 400 characters. These changes were effective, starting with the treatment date of January 1, 2019.
 ###### ***Types of Data***
 ## Analysis
-### Visualizations
-#### Bar Charts
-Quickly identify the highest or the lowest variable, including the incremental differences between bars. 
-- Which sport had the most hospital visits? Basketball
-- Which injury had the most hospital visits? Strain/Sprain
-- Which age had the most hospital visits? Minors from the age 15 had more hospital E.D. visits than the sum of E.D. visits of adults from the age of 18 to 24.
-- Which disposition had the most hospital visits? Treated and examined
-- Which race had the most hospital visits? The top two races from with the most E.D. visits from 2010 to 2019 were whites then blacks.
+![plot](Line_Graphs/Age.png)
+
+![plot](Line_Graphs/Injury.png)
 
 ![plot](Bar_Graphs/Visits_By_Sport.png)
 
 ![plot](Bar_Graphs/Visits_By_Injury.png)
 
-#### Line chart
-Show trends or progress over time and highlight accelerations and decelerations in data
-- What are the trends of total E.D. visits over the past ten years by sport? Basketball had the highest number of E.D. visits. Track and field has the highest deceleration of E.D. visits from 2018-2019.
-- What are the trends of total E.D. visits over the past ten years by age? Ages 15, 16, and 17 have the highest rate of deceleration of E.D. visits the from 2018-2019.
-- What are the trends of total E.D. visits over the past ten years by injury? Most injuries where caused by and injury ankle followed by knee injuries. Both of the top two injuries E.D. visits are decelerating.
-- What are the trends of total E.D. visits over the past ten years by disposition? Overall there is a downward trend in patients being treated, examined, and released. Their seems to be a slight increase in the rate of hospitalzations.
-- What are the trends of total E.D. visits over the past ten years by gender? Men visit the E.D. more than women. Over the past 10 yeard there has been an overall decrease in E.D. visits.
-- What are the trends of total E.D. visits over the past ten years by race? The difference between whites and blacks E.D. visits is decreasing. 
-
-![plot](Line_Graphs/Age.png)
-
-![plot](Line_Graphs/Injury.png)
-
-
-### Pie chart
-Represents data in percentages
-- What is the injury percentage by sport
-
-
-
 ![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
-
-- What was the disposition percentage by sport.
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
 
-- What was the disposition percentage by gender? 
-
 ![Screenshot (171)](https://user-images.githubusercontent.com/114957364/223908457-42bb18e5-4bea-41bc-bc71-eab58c80c3a5.png)
-
-- What was the disposition percentage by location? 
  
- ![Screenshot (182)](https://user-images.githubusercontent.com/114957364/225470696-e6d3391f-cee0-4373-ad7c-aae56a0eca4a.png)
-
-- What was the disposition percentage by body part? 
-
 ![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
-
 
 
 #### Clustering
