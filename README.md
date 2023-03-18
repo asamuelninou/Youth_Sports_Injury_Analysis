@@ -24,7 +24,6 @@ NEISS is based on a nationally representative probability sample of U.S. hospita
 ###### ***Types of Data***
 ## Analysis
 
-
 ![image](https://user-images.githubusercontent.com/92180070/226080625-3c0343ce-8f02-4707-afec-fc803882594c.png)
 
 Over the past ten years, there has been a decrease in the amount of youth E.D. visits. As suspected minors from 15 to 17 years old visited the E.D. more than adults age 18 to 24 combined. There were more males going to the E.D. than women. 
@@ -34,27 +33,17 @@ Over the past ten years, there has been a decrease in the amount of youth E.D. v
 The primary reason our targeted audience went to the E.D. where because of a strain/ or sprain. 
 
 Majority of clients where treated/examined and released.
-
+![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
 ![image](https://user-images.githubusercontent.com/92180070/226081187-ca68139a-0096-4e7e-a5f2-39448a86f3b7.png)
 
 The top 2 locations of injury are the ankles and knees. 
 
 ![image](https://user-images.githubusercontent.com/92180070/226080643-7dba5a11-f253-4c7d-a51d-6947736d8f82.png)
-
-
-![image](https://user-images.githubusercontent.com/92180070/226080581-3d8c2ee6-08ea-4381-91b0-cb1da6b5e272.png)
-
-
-![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
-
-![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
-
-![Screenshot (171)](https://user-images.githubusercontent.com/114957364/223908457-42bb18e5-4bea-41bc-bc71-eab58c80c3a5.png)
  
 ![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
 
 
-#### Clustering
+### Machine Learning Clusters
 Supervised machine learning separating people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
 
 The first step in this process was creating a risk variable that separated people into high risk and low risk groups. This variable was named "high risk" and was true if the injuries were on the person's face, eyes, neck, or head. Otherwise, the variable would be labeled "false" (meaning the person was low-risk.) From there the data was cleaned, where X dropped the "high risk" column and y was equal to the "high risk" column. Value counts for y were found and the number of low-risk (false) far outweighed the high-risk (true) class. Due to this, the team decided to undersample for the machine learning model, randomly selecting a number of low-risk individuals to match the number of high-risk. From there the BalancedRandomForest was used to classify with n-estimators set to 50. The confusion matrix can be seen below: 
