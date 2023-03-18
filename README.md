@@ -82,6 +82,8 @@ If a person could die or be permanently disabled, it is an emergency. For our st
 - High fever with headache and stiff neck
 - High fever that does not get better with medicine
 - Throwing up or loose stools that do not stop
+
+**We concluded that most E.D. visits were minors and their primary injury were in low-risk locations. Further research would need to be gathered to determine if the emergency visit was justified.**
 ### Injury Management Plan
 In regards to the development of an injury management plan, further research must be done to determine what resources or protocals need to be in place to redirect "non-emergency" injuries. This plan will need the cooperation of public healthcare officials, healthcare professionals, coaches, parents, and patients. 
 #### Strength
