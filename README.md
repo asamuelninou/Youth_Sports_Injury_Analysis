@@ -13,7 +13,7 @@ Our target demographic is the youth who visited the E.D. for sport-related injur
 ### Technology, Languages, and Tools
 - Extract data from NEIISS Database
 - Transform data in Jupiter Notebook using Python
-- Demonstrate Entity Relationship Diagram (ERD) with Postgresql
+- Demonstrate Entity Relationship Diagram (ERD) with PostgreSQL
 - Load and analyze visualizations in Tablaeu
 - Use Jupyter Notebook to create machine learning model that will cluster injuries based on age group
 
@@ -54,21 +54,15 @@ Show trends or progress over time and highlight accelerations and decelerations 
 Represents data in percentages
 - What is the injury percentage by sport
 
-![Screenshot (185)](https://user-images.githubusercontent.com/114957364/225470235-ab5807fb-b5b4-4d3c-abff-fe6cb394708a.png)
 
 
 ![Screenshot (177)](https://user-images.githubusercontent.com/114957364/223908623-84165ebe-f4f5-424e-99ba-cc4cb508c838.png)
 
 - What was the disposition percentage by sport.
 
-![Screenshot (184)](https://user-images.githubusercontent.com/114957364/225470376-992c2a3c-2627-46fa-8542-ecd66b286b32.png)
-
 ![Screenshot (174)](https://user-images.githubusercontent.com/114957364/223908529-de3a1e4d-d55b-4a55-b2ac-8275d98fe0d1.png)
 
 - What was the disposition percentage by gender? 
-
-![Screenshot (183)](https://user-images.githubusercontent.com/114957364/225470574-faa639ce-a5a2-4ba7-b4bf-37ff46755083.png)
-
 
 ![Screenshot (171)](https://user-images.githubusercontent.com/114957364/223908457-42bb18e5-4bea-41bc-bc71-eab58c80c3a5.png)
 
@@ -80,9 +74,6 @@ Represents data in percentages
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/114957364/225471020-c08f0ea0-1067-448f-af15-733b3fed031d.png)
 
-- What was the disposition percentage by race? 
- 
-![Screenshot (181)](https://user-images.githubusercontent.com/114957364/225470955-ada1a4b4-36c4-4085-a1d3-64575cfcc1da.png)
 
 
 #### Clustering
@@ -144,6 +135,8 @@ The Analytical Team's role is to narrow down the selected topic and determine th
 - README.md Report
 - Jupyter Notebook CSV Files Concat
 - README.md Analysis
+- PostgreSQL Database
+- Introduction Powerpoint
 ##### Kailey O'Shaughnessy
 - Project Research
 - Initial Clean
