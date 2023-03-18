@@ -86,10 +86,9 @@ If a person could die or be permanently disabled, it is an emergency. For our st
 #### Limitations
 We are not medical professionals that can determine which injuries are deemed "inappropriate" or "non-emergency."
 #### Future Finding
-1) Does weight/BMI play a role in disposition
-2) Who brought the patient into the hospital
-3) Medical Education of patient and parent
-4) Wait time of patients at the hospital
+1) Who brought the patient into the hospital
+2) Medical Education of patient and transportation personal
+3) Medical Professionals Feedback
 
 # Project Management
 Our team has two departments: Analytical and Data Wrangling and Visualization Team.
