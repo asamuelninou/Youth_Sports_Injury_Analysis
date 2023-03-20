@@ -119,6 +119,7 @@ The Data Wrangling and Visualization Team's role is to clean data further and de
 - Bar Chart Visualization
 - README Updates
 - Visualiztion clean up
+- Powerpoint Visualizations
 ##### Zenat
 - Wrangle Data
 - Line Graph Visualization
