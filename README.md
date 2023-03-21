@@ -88,7 +88,7 @@ If a person could die or be permanently disabled, it is an emergency. For our st
 ### Injury Management Plan
 In regards to the development of an injury management plan, further research must be done to determine what resources or protocals need to be in place to redirect "non-emergency" injuries. This plan will need the cooperation of public healthcare officials, healthcare professionals, coaches, parents, and patients. 
 #### Strength
-The strength of this research proposal was organized data from the (NEIISS) Database
+The strength of this research proposal was organized data from the (NEISS) Database
 #### Limitations
 We are not medical professionals that can determine which injuries are deemed "inappropriate" or "non-emergency." More data will need to be gathered on what medical professionals conclude as "inappropriate" uses of the E.D. 
 #### Future Finding
