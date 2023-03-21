@@ -40,6 +40,9 @@ Majority of clients were treated/examined and released.
 The top 2 locations of injury are the ankles and knees. 
 
 ![image](https://user-images.githubusercontent.com/92180070/226080643-7dba5a11-f253-4c7d-a51d-6947736d8f82.png)
+
+### Interactive Dashboard
+View our interactive dashboard by clicking the following link: [Tableau](https://public.tableau.com/app/profile/zenat1847/viz/E_D_TrendsOverthePast10YearsbyDisposition/E_D_TrendsOverthePast10YearsbyDisposition)
  
 ### Machine Learning Clusters
 Supervised machine learning separating people into categories into high risk and low risk based on age. Create a machine learning model that would predict if someone is high or low risk.
