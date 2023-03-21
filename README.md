@@ -141,6 +141,7 @@ Data Analysis systematically applies statistical and logical techniques to descr
 - 3/8: Edited, uploaded, discussed visualizations, discussed next meet up time
 - 3/13: Edited graphs, 
 - 3/15: Finalize our story and pick top graphs to represent our story
+- 3/20: Practice presentation
 
 ## Resources
 - Presentation PPT: https://docs.google.com/presentation/d/1PNGkagYsRhEGqGaS-2org3AKvUiXmIBFPbWmnMIhYvY/edit?usp=sharing
