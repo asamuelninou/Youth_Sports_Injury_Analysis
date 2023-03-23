@@ -130,7 +130,7 @@ The Data Wrangling and Visualization Team's role is to clean data further and de
 - Line Graph Visualization
 - Pie Chart Visualization
 - README Updates
-- Future Findings 
+- Future Findings Analysis
  
 ## Data Exploration Phase
 The first step of our exploration phase is determining critical variables influencing our hypotheses and uncovering insights into sport-related injuries based on age, gender, disposition, and location. Next, we will identify areas or patterns for our machine-learning model with bar graphs, line graphs, and pie charts. Then, using interactive dashboards that filter data by sport, our audience can be able to understand our data-driven story.
